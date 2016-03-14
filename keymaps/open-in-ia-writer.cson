@@ -1,0 +1,2 @@
+'atom-text-editor':
+  'cmd-I': 'open-in-ia-writer:open'

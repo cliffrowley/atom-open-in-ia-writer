@@ -1,0 +1,20 @@
+{
+  "name": "open-in-ia-writer",
+  "main": "./lib/open-in-ia-writer",
+  "version": "0.0.1",
+  "description": "Open the current file in iA Writer",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "open-in-ia-writer:open"
+  },
+  "repository": "https://github.com/cliffrowley/open-in-ia-writer",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  },
+  "readme": "# Open in iA Writer\n\nOpen the current file in iA Writer.",
+  "readmeFilename": "README.md"
+}

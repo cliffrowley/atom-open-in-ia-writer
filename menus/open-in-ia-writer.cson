@@ -1,0 +1,21 @@
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Open in iA Writer'
+      'command': 'open-in-ia-writer:open'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'open-in-ia-writer'
+      'submenu': [
+        {
+          'label': 'Open in iA Writer'
+          'command': 'open-in-ia-writer:open'
+        }
+      ]
+    ]
+  }
+]
